@@ -3,6 +3,7 @@
 "version": "1.0.0",
  "license": "MIT",
   "repository": "wpchen66/cool",
+  "entry": "./src/index.js",
   "keywords": [
     "cool",
     "npm",
